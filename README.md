@@ -2,7 +2,7 @@
 Stochastic environments in the MiniGrid domain.
 
 
-The below example shows the Teleporter5by5 environment, in which the teleporter takes the agent to two possible destinations, each with a 50% likelihood:
+The below example shows the `Teleporter5by5` environment, in which the teleporter takes the agent to two possible destinations, each with a 50% likelihood:
 <p align="center">
   <img src="imgs/teleporter-example.gif" />
 </p>
